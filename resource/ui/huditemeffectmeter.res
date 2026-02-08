@@ -70,5 +70,23 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
+		"bgcolor_override" 		"0 0 0 255"
+	}
+
+	"BlueShader"
+	{
+		"controlName"			"ImagePanel"	
+		"fieldName"				"BlueShader"
+		"xpos"					"0"	
+		"ypos"					"0"	
+		"zpos"					"3"	
+		"wide"					"90"	
+		"tall"					"5"
+		"visible"				"1"	
+		"enabled"				"1"	
+		"image"					"replay/thumbnails/mod2"	
+		"scaleImage"			"1"
+		"pin_to_sibling"		"ItemEffectMeter" 
+		"drawcolor" 			"255 255 255 255"
 	}					
 }
