@@ -88,9 +88,9 @@
 	"AmmoInReserveShadow"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmoInReserveshadow"
+		"fieldName"									"AmmoInReserveShadow"
 		"xpos"										"-1"
-		"ypos"										"1"
+		"ypos"										"-1"
 		"zpos"										"7"
 		"wide"										"150"
 		"tall"										"80"
